@@ -3,7 +3,7 @@
 		private $host = 'localhost';
 		private $dbName = 'websocket';
 		private $user = 'lazarospsa';
-		private $pass = 'k3rv3r0s!';
+		private $pass = '';
 
 		public function connect() {
 			try {
